@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jainajitDA(Ajit Jain)
+- 👋 Hi, I’m @jainajit(Ajit Jain)
 - 👀 I’m interested in ...data visualization, Analytics, Out of box approach, Problem Solving
 - 🌱 I’m currently learning ...Data Analytics - SQL, Python, Tableau, Power BI, Big Data, Hadoop, Spark
 - 💞️ I’m looking to collaborate on ...Data Science project
